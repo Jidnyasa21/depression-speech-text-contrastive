@@ -1,0 +1,16 @@
+torch
+transformers
+sentence-transformers
+faster-whisper
+librosa
+soundfile
+scikit-learn
+imbalanced-learn
+umap-learn
+scipy
+pandas
+numpy
+matplotlib
+tqdm
+joblib
+gradio

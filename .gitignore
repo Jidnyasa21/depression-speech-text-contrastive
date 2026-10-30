@@ -1,0 +1,20 @@
+# data and large artefacts (the Androids Corpus must not be redistributed)
+androids/
+androids_emb/
+androids_results/
+*.npz
+*.wav
+*.zip
+*.pt
+*.joblib
+# python / notebooks / latex
+__pycache__/
+.ipynb_checkpoints/
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
